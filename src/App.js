@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import {useFetch} from './hooks/fetchData'
 import {useState} from 'react'
-import Resturantsearch from './components/Resturantssearch'
 import Resturantsort from "./components/Resturantsort";
 
 export default function App() {
